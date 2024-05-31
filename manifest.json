@@ -1,8 +1,8 @@
 {
     "name": "Lab8-Starter",
-    "short_name": "Mingyang Sun",
+    "short_name": "Mingyang-Sun",
     "description": "Progressive Web App for our recipe cards",
-    "start_url": "/",
+    "start_url": "./index.html",
     "display": "standalone",
     "background_color": "#ffffff",
     "theme_color": "#ff5722",
@@ -18,7 +18,7 @@
         "type": "image/png"
       },
       {
-        "src": "/assets/images/icons/icon-384x385.png",
+        "src": "/assets/images/icons/icon-384x384.png",
         "sizes": "384x384",
         "type": "image/png"
       },
@@ -28,7 +28,7 @@
         "type": "image/png"
       },
       {
-        "src": "/assets/images/icons/arraw-down.png",
+        "src": "/assets/images/icons/arrow-down.png",
         "type": "image/png"
       },
       {
